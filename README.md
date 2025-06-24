@@ -42,4 +42,9 @@
 
 `pause.cpp`  
 53行～81行  
-・マウスでのポーズ画面内の選択
+・マウスでのポーズ画面内の選択  
+  
+
+## リンク
+[GogleDrive](https://drive.google.com/drive/folders/1LClwaJxzeFm79CWgbg9bYNiG4qeAL9n4)  
+[作品動画](https://drive.google.com/file/d/1P7Hiw7MZcTG9gSj08jlTa9gQnslmgHA8)
